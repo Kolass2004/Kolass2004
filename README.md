@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kolass rexon J</h1>
+<h1 align="center">Hi 👋, <br>I'm Kolass rexon J</h1>
 <h3 align="center">Javascript and Shell Devolper , and android lover</h3>
 
 
