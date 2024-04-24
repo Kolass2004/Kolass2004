@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋 <br>I'm Kolass rexon J</h1>
-<h3 align="center">Javascript and Shell Devolper , and android lover</h3>
+<h3 align="center">Javascript and Shell Devolper , and Android Lover</h3>
 
 
-- 🔭 I’m currently **Computer Science Student**
+- 🔭 **I’m currently Computer Science Student**
 - 🧑‍💻 **Android mod with shell and magisk , Apatch, KernalSU**
 - 😁 **Android API and Custom ROM also Custom UNIX based Kernel modification**
 - 🌸 **Aim to give all premium features to all Low end Mobile devices**
