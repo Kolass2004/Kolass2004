@@ -3,7 +3,8 @@
 
 
 - 🔭 I’m currently **Computer Science Student**
-
+- 🧑‍💻 **Android mod with shell and magisk , Apatch, KernalSU**
+- 😁 **Android API and Custom ROM also Custom UNIX based Kernel modification**
 <p align="left">
 </p>
 
