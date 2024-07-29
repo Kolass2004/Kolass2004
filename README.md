@@ -2,9 +2,9 @@
 <h3 align="center">Javascript and Shell Devolper , and Android Lover</h3>
 
 
-- 🔭 **I’m currently Computer Science Student**
+- 🔭 **Computer Science Student**
 - 🧑‍💻 **Android mod with shell and magisk , Apatch, KernalSU**
-- 😁 **Android API and Custom ROM also Custom UNIX based Kernel modification**
+- 😁 **Android API and Custom ROM also Custom Linux Kernel modification**
 - 🌸 **Aim to give all premium features to all Low end Mobile devices**
 <p align="left">
 </p>
