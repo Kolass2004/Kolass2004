@@ -11,7 +11,7 @@
 
 
 <center>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kolass2004&show_icons=true&locale=en&layout=compact" alt="kolass2004" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kolass2004&" alt="kolass2004" /></p>
 
