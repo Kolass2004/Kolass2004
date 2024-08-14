@@ -26,4 +26,4 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p></p>
+<p>raniv2057@gmail.com</p>
