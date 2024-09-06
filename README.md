@@ -14,6 +14,7 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kolass2004&" alt="kolass2004" /></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Kolass2004&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
 
 </center>
 
