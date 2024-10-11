@@ -1,23 +1,3 @@
-<h1 align="center">Hi 👋 <br>I'm Kolass rexon J</h1>
-<h3 align="center">Javascript and Shell Devolper , and Android Lover</h3>
-
-
-- 🔭 **WebApplication Devolper**
-- 🧑‍💻 **Android mod with shell and magisk , Apatch, KernalSU**
-- 😁 **Android API and Custom ROM also Custom Linux Kernel modification**
-- 🌸 **Aim to give all premium features to all Low end Mobile devices**
-<p align="left">
-</p>
-
-
-<center>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kolass2004&" alt="kolass2004" /></p>
-
-
-</center>
-
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h3 align="left">Languages and Tools:</h3>
